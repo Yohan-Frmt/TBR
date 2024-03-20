@@ -1,0 +1,5 @@
+Client/node_modules
+Server/node_modules
+Client/.local.env
+Server/.local.env
+.idea

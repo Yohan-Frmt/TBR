@@ -1,0 +1,976 @@
+[2024-1-21 16:2:47] [INFO] [WebSocket] Upgrade server running with PID 'undefined' Connected!
+[2024-1-21 16:2:47] [INFO] [Middleware] Enable Cors middleware...
+[2024-1-21 16:2:47] [INFO] [Middleware] Enable Monitor middleware...
+[2024-1-21 16:2:47] [INFO] [Routes] Mounting Lobby Routes...
+[2024-1-21 16:2:47] [INFO] [Middleware] Enable Http middleware...
+[2024-1-21 16:2:47] [INFO] [Routes] Mounting API Routes...
+[2024-1-21 16:2:47] [INFO] [Routes] Mounting User Routes...
+[2024-1-21 16:2:47] [INFO] [Server] Loading...
+[2024-1-21 16:2:47] [INFO] [Configuration] Loading...
+[2024-1-21 16:2:47] [INFO] [Queue Monitor] Running @ 'http://127.0.0.1:5550'
+[2024-1-21 16:2:47] [INFO] [Database] Loading...
+[2024-1-21 16:2:47] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:2:47] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:2:47] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:2:47] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:2:47] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:2:47] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error while connecting to Mongo Database : querySrv ENODATA _mongodb._tcp.cluster0.jtexi.mongodb.net
+[2024-1-21 16:2:47] [ERROR] [Error] Error: querySrv ENODATA _mongodb._tcp.cluster0.jtexi.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: querySrv ENODATA _mongodb._tcp.cluster0.jtexi.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:2:47] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [INFO] [WebSocket] Upgrade server running with PID 'undefined' Connected!
+[2024-1-21 16:21:46] [INFO] [Middleware] Enable Cors middleware...
+[2024-1-21 16:21:46] [INFO] [Middleware] Enable Http middleware...
+[2024-1-21 16:21:46] [INFO] [Middleware] Enable Monitor middleware...
+[2024-1-21 16:21:46] [INFO] [Routes] Mounting API Routes...
+[2024-1-21 16:21:46] [INFO] [Routes] Mounting User Routes...
+[2024-1-21 16:21:46] [INFO] [Routes] Mounting Lobby Routes...
+[2024-1-21 16:21:46] [INFO] [Configuration] Loading...
+[2024-1-21 16:21:46] [INFO] [Database] Loading...
+[2024-1-21 16:21:46] [INFO] [Server] Loading...
+[2024-1-21 16:21:46] [INFO] [Queue Monitor] Running @ 'http://127.0.0.1:5550'
+[2024-1-21 16:21:46] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:46] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:46] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:46] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:46] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:46] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error while connecting to Mongo Database : querySrv ENODATA _mongodb._tcp.cluster0.jtexi.mongodb.net
+[2024-1-21 16:21:46] [ERROR] [Error] Error: querySrv ENODATA _mongodb._tcp.cluster0.jtexi.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: querySrv ENODATA _mongodb._tcp.cluster0.jtexi.mongodb.net
+    at QueryReqWrap.onresolve [as oncomplete] (node:internal/dns/promises:251:17)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:46] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [INFO] [WebSocket] Upgrade server running with PID 'undefined' Connected!
+[2024-1-21 16:21:52] [INFO] [Middleware] Enable Cors middleware...
+[2024-1-21 16:21:52] [INFO] [Middleware] Enable Monitor middleware...
+[2024-1-21 16:21:52] [INFO] [Middleware] Enable Http middleware...
+[2024-1-21 16:21:52] [INFO] [Routes] Mounting API Routes...
+[2024-1-21 16:21:52] [INFO] [Routes] Mounting User Routes...
+[2024-1-21 16:21:52] [INFO] [Routes] Mounting Lobby Routes...
+[2024-1-21 16:21:52] [INFO] [Configuration] Loading...
+[2024-1-21 16:21:52] [INFO] [Database] Loading...
+[2024-1-21 16:21:52] [INFO] [Server] Loading...
+[2024-1-21 16:21:52] [INFO] [Queue Monitor] Running @ 'http://127.0.0.1:5550'
+[2024-1-21 16:21:52] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:52] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:52] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:52] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:52] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:52] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 16:21:52] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [INFO] [WebSocket] Upgrade server running with PID 'undefined' Connected!
+[2024-1-21 17:33:49] [INFO] [Middleware] Enable Http middleware...
+[2024-1-21 17:33:49] [INFO] [Middleware] Enable Monitor middleware...
+[2024-1-21 17:33:49] [INFO] [Middleware] Enable Cors middleware...
+[2024-1-21 17:33:49] [INFO] [Routes] Mounting API Routes...
+[2024-1-21 17:33:49] [INFO] [Routes] Mounting User Routes...
+[2024-1-21 17:33:49] [INFO] [Routes] Mounting Lobby Routes...
+[2024-1-21 17:33:49] [INFO] [Configuration] Loading...
+[2024-1-21 17:33:49] [INFO] [Database] Loading...
+[2024-1-21 17:33:49] [INFO] [Server] Loading...
+[2024-1-21 17:33:49] [INFO] [Queue Monitor] Running @ 'http://127.0.0.1:5550'
+[2024-1-21 17:33:49] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:49] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:49] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:49] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:49] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:49] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:49] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [INFO] [WebSocket] Upgrade server running with PID 'undefined' Connected!
+[2024-1-21 17:33:54] [INFO] [Middleware] Enable Http middleware...
+[2024-1-21 17:33:54] [INFO] [Middleware] Enable Cors middleware...
+[2024-1-21 17:33:54] [INFO] [Middleware] Enable Monitor middleware...
+[2024-1-21 17:33:54] [INFO] [Routes] Mounting API Routes...
+[2024-1-21 17:33:54] [INFO] [Routes] Mounting User Routes...
+[2024-1-21 17:33:54] [INFO] [Routes] Mounting Lobby Routes...
+[2024-1-21 17:33:54] [INFO] [Configuration] Loading...
+[2024-1-21 17:33:54] [INFO] [Database] Loading...
+[2024-1-21 17:33:54] [INFO] [Server] Loading...
+[2024-1-21 17:33:54] [INFO] [Queue Monitor] Running @ 'http://127.0.0.1:5550'
+[2024-1-21 17:33:54] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:54] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:54] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:54] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:54] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:54] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] MongoServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Timeout._onTimeout (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\mongodb@5.1.0\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2024-1-21 17:33:54] [ERROR] [Error] Error while connecting to Mongo Database : connect ECONNREFUSED ::1:27017
+[2024-1-21 17:33:54] [ERROR] [Error] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\mongoose@7.0.3\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\mongoose@7.0.3\node_modules\mongoose\lib\connection.js:730:11)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:540:9)
+    at process.processTimers (node:internal/timers:514:7)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:33:54] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [INFO] [WebSocket] Upgrade server running with PID 'undefined' Connected!
+[2024-1-21 17:35:29] [INFO] [Middleware] Enable Cors middleware...
+[2024-1-21 17:35:29] [INFO] [Middleware] Enable Http middleware...
+[2024-1-21 17:35:29] [INFO] [Middleware] Enable Monitor middleware...
+[2024-1-21 17:35:29] [INFO] [Routes] Mounting API Routes...
+[2024-1-21 17:35:29] [INFO] [Routes] Mounting User Routes...
+[2024-1-21 17:35:29] [INFO] [Routes] Mounting Lobby Routes...
+[2024-1-21 17:35:29] [INFO] [Configuration] Loading...
+[2024-1-21 17:35:29] [INFO] [Database] Loading...
+[2024-1-21 17:35:29] [INFO] [Server] Loading...
+[2024-1-21 17:35:29] [INFO] [Queue Monitor] Running @ 'http://127.0.0.1:5550'
+[2024-1-21 17:35:29] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:35:29] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:35:29] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:35:29] [WARN] [Error] Warning: Accessing non-existent property 'filename' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:44:25)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:35:29] [WARN] [Error] Warning: Accessing non-existent property 'column' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:43:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:58:17)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:35:29] [WARN] [Error] Warning: Accessing non-existent property 'lineno' of module exports inside circular dependency
+    at emitCircularRequireWarning (node:internal/modules/cjs/loader:848:11)
+    at Object.get (node:internal/modules/cjs/loader:864:5)
+    at Boolean.Node [as constructor] (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\node.js:42:23)
+    at new Boolean (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\boolean.js:23:8)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\nodes\index.js:57:16)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\stylus@0.54.5\node_modules\stylus\lib\lexer.js:13:13)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] MongoServerSelectionError: connect ECONNREFUSED ::1:27017
+    at Timeout._onTimeout (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\mongodb@5.1.0\node_modules\mongodb\lib\sdam\topology.js:277:38)
+    at listOnTimeout (node:internal/timers:573:17)
+    at process.processTimers (node:internal/timers:514:7)
+[2024-1-21 17:35:29] [ERROR] [Error] Error while connecting to Mongo Database : connect ECONNREFUSED ::1:27017
+[2024-1-21 17:35:29] [ERROR] [Error] MongooseServerSelectionError: connect ECONNREFUSED ::1:27017
+    at _handleConnectionErrors (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\mongoose@7.0.3\node_modules\mongoose\lib\connection.js:755:11)
+    at NativeConnection.openUri (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\mongoose@7.0.3\node_modules\mongoose\lib\connection.js:730:11)
+    at runNextTicks (node:internal/process/task_queues:60:5)
+    at listOnTimeout (node:internal/timers:540:9)
+    at process.processTimers (node:internal/timers:514:7)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] Error: connect ECONNREFUSED 127.0.0.1:6379
+    at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1532:16)
+[2024-1-21 17:35:29] [ERROR] [Error] AbortError: Redis connection in broken state: connection timeout exceeded.
+    at RedisClient.flush_and_error (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\index.js:357:23)
+    at RedisClient.connection_gone (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\index.js:638:14)
+    at Socket.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\index.js:289:14)
+    at Object.onceWrapper (node:events:627:26)
+    at Socket.emit (node:events:512:28)
+    at TCP.<anonymous> (node:net:332:12)
+    at new Command (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\lib\command.js:12:22)
+    at RedisClient.select (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\lib\individualCommands.js:46:39)
+    at exports.createClientFactory (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\redis.js:120:12)
+    at exports.createClient (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\redis.js:62:31)
+    at exports.pubsubClient (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\redis.js:144:56)
+    at exports.subscribe (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\queue\events.js:72:25)
+    at exports.createQueue (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\kue.js:72:10)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\http\routes\index.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\http\index.js:19:18)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+[2024-1-21 17:35:29] [ERROR] [Error] AbortError: Redis connection in broken state: connection timeout exceeded.
+    at RedisClient.flush_and_error (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\index.js:357:23)
+    at RedisClient.connection_gone (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\index.js:638:14)
+    at Socket.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\index.js:289:14)
+    at Object.onceWrapper (node:events:627:26)
+    at Socket.emit (node:events:512:28)
+    at TCP.<anonymous> (node:net:332:12)
+    at new Command (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\lib\command.js:12:22)
+    at RedisClient.select (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\redis@2.6.5\node_modules\redis\lib\individualCommands.js:46:39)
+    at exports.createClientFactory (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\redis.js:120:12)
+    at exports.createClient (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\redis.js:62:31)
+    at new Queue (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\kue.js:99:52)
+    at exports.createQueue (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\kue.js:70:23)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\http\routes\index.js:13:19)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
+    at Module.load (node:internal/modules/cjs/loader:1133:32)
+    at Module._load (node:internal/modules/cjs/loader:972:12)
+    at Module.require (node:internal/modules/cjs/loader:1157:19)
+    at require (node:internal/modules/helpers:119:18)
+    at Object.<anonymous> (F:\WebApp\JS\React\tbr\Server\node_modules\.pnpm\kue@0.11.6\node_modules\kue\lib\http\index.js:19:18)
+    at Module._compile (node:internal/modules/cjs/loader:1275:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1329:10)
